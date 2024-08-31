@@ -2,7 +2,7 @@
 Tic-Tac-Toe is a classic two-player game now enhanced with an AI opponent! This Python implementation allows you to play against the computer, which uses artificial intelligence to make its moves. The goal remains the same: get three of your marks in a row (horizontally, vertically, or diagonally) before your opponent does.
 
 # Features
-- GUI based: 
+- GUI based: User friendly User Interface.
 - Single-Player Mode: Play against a computer opponent.
 - AI Opponent: The computer uses AI to make optimal moves.
 - User-Friendly Interface: Simple text-based gameplay.
